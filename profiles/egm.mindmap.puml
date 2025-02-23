@@ -1,0 +1,34 @@
+@startmindmap
++[#f39c12] Vu Hoang Viet - EGM
+++[#3498db] Team Management
++++ Team Size - 10 developers
+++++ Daily Tasks
+++++ Monitoring
+++++ Sub Teams (up-to 5 members)
+++++ Performance Reivew
++++ Mentoring/Coaching
+++++ Build-up relationships, take care both work and life
+++++ One-one talks, listen, advice, handle comments
+++++ provide roadmap for career development
+++++ set targets (Certificates, SkillSets)
+--[#2ecc71] Organization Contribution
+--- Talent Interviews
+--- Company Training Courses 
+---- Follow Company Tech rada 
+---- Build Courses and Presentations
+--[#45b39d] Technical Skillset
+--- Architecture
+---- OOP & SOLID
+---- Domain Driven
+---- Event Driven 
+---- Micro Services
+--- Languages
+---- Java
+---- C++
+---- Python 
+---- NodeJS
+--- Cloud/Infra 
+---- AWS 
+---- Cloud Native/Kubernetes
+
+@endmindmap
