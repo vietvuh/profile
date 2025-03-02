@@ -1,0 +1,32 @@
+
+@startuml "Issue"
+
+actor User  as user
+
+box  MMS
+  participant "MMS" as mms
+  participant "CSV Report" as csv
+  database "MMS Database" as db
+end box 
+
+participant "Titok Shop" as tts
+
+user -> mms : request report
+activate mms
+  loop "Loop util pull full report from TTS"
+    mms -> tts : request report
+    mms <-- tts: report page
+    mms -> db: query data
+    mms -> mms: enrich report
+    mms -> csv **: create Report
+  end
+  user <-- mms: full Report CSV file
+deactivate mms
+
+note right of mms
+ - Long Response time -> timeout issue 
+ - expensive memory
+end note
+
+
+@enduml

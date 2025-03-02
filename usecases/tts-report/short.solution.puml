@@ -1,0 +1,41 @@
+@startuml
+
+actor User  as user
+
+box "Report Provider"
+  participant "Report Provider" as mms
+  queue "Internal Queue" as iqueue
+  participant "Collecting Thread" as ttsThread  
+  participant "CSV Report" as csv
+end box 
+database "MMS Database" as db
+
+participant "Titok Shop" as tts
+
+user -> mms : request report
+activate mms
+  mms -> ttsThread: send job
+deactivate mms
+  activate ttsThread
+    loop "Loop util pull full report from TTS"
+      ttsThread -> tts : request report
+      ttsThread <-- tts: report page
+      ttsThread -> iqueue: report page
+    end
+  deactivate ttsThread
+
+  iqueue --> mms
+activate mms
+  mms -> db: query data
+  mms -> mms: enrich report
+  mms -> csv **: generate Report  
+  user <-- mms: stream report part asap to user
+deactivate mms
+
+note right of mms
+ - Response apsp
+ - Stream report data to user
+end note
+
+
+@enduml
