@@ -2,28 +2,37 @@
 
 Hi I'm Viet,
 
-I'm a Solution Architect who is expert on Microsoft Architecture, Domain Driven Architecture and Cloud Soltulion, include Cloud Native and AWS, I'm also ceritified by AWS Solution Architect Professtional certification. As a teamleader, I aslo have experience of managing a large team with 17 members, include 10 software engineers.
-And actually, I'm a ex-employee of PRDCV, who looking forward to have a chance to come back.
+I'm a Solution Architect who is expert on Microservices Architecture, Domain Driven Architecture and Cloud Solution, including Cloud Native and AWS. I'm also certified as an AWS Solution Architect Professional. As a team leader, I have experience of leading a large team of 17 members, including 10 software engineers. Actually, I'm an ex-employee of PRDCV, and currently looking forward to work again for you.
 
-# Why lelf on 2021?
+# Why I lelf on 2021?
 
-In 2021, I've just compleled the Washing Machine project successfully, be promoted to APE2, I'm so happy at that moment.
-But I know that I'm still lack of experience of managing a large team size, building a Microservice System from scratch and facing with customer directly to understand what they really need. Nashtech gives me the vision of what I need to do as a next step, and I cannot escape.
+In 2021, I had successfully completed an important project called, Washing Machine where I was a key, senior technical contributor. I was promoted to APE2 and I had very good collaborations at Panasonic at that time. But I knew that I wanted to get more experience leading a much larger team, building a Microservices-based System from scratch and facing customers directly for their needs. Nashtech at that moment could give me straight away an opportunity to do these things.
 
-# What archived on Nashtech
 
-After 4 years, I beleive that now I'm mature in both Technical and Management skill as a technical specialist.
-I built 2 Micoservices for my customer, collaborate with our customer to develop and maintain the product continuously with full-lifecycle follow to Production roadtmap,
-and to archive this work, I have a great team with 17 members, and I have responsibility to take care 10 software engineers, inprise them on both professional and persional growth. 
+# What I achieved in Nashtech
 
-# Why want to comeback
+These 4 years at Nashtech, helped me build a solid foundation of senior technical expertise and I see that now I'm mature in both Technical and Leadership skills and I have already gained lots of experience as a senior technical specialist. 
 
-- I believe that my next step is to become an Enterprise Architect who will have the vision of Organization software architecture.
-- and I can see that PRDCV now is becoming a Panasonic Cloud Center, and having many challeges of providing Cloud Solution on Organization level.
-- Now, I'm not only take about Technical only, to become an Enterprise Architect, I need to take care about Organization needs to have the vision to provide the solution.
-- So, I believe PRDCV is the right place allow me develop my career on long-term in up coming time.
+I built 2 large, important and  high traffic volume Micoservices-based systems for our customers, liaised and collaborated with customers to develop and maintain their product through a continuous, end-to-end lifecycle and I successfully delivered the targets of their go-live roadmap (on time, with quality and within budget). 
+All this was achieved through my technical designs and direction given, while overseeing a great team of 17 members. I had direct responsibility to look after 10 software engineers, and also opportunity to support and motivate them on their professional and personal growth.
 
-# Why to leave Nashtech
+> (Keep sentences short, more full-stops. Longer sentences are more difficult to say in an interview, it’s easy to lose track or go out of breath. So, shorter sentences work better. Also keep in mind, talking slowly and having pauses works well. It is easier for others to understand us, and easier for us to collect our next thought. In interviews because of stress we often tend to speak quickly, make sure you are mindful of this and slow it down) 
 
-Actually, my projects in Nashtech is ended, Product goes to Production already, I archive so many experience in this projects, and my contact with Nashtech will become to the end also. This is the right time for my next step, and PRDCV is always the place I would like to contribute.
+# Why do I want to comeback
+
+I want in my next career step to become an Enterprise Architect, looking after the vision of the Organization’s software architecture.
+I can see that PRDCV is now becoming a Panasonic Cloud Center, which comes with it’s own challenges to provide effective Cloud Solutions at the Organizational level.
+As an Enterprise Architect, I want to look after the needs of the Organization and contribute in shaping our vision, while delivering effective solutions.
+So, I see PRDCV as a great environment that will allow me to further develop my career for the long-term and these coming years.
+
+
+# Why are you leaving Nashtech
+
+My projects in Nashtech have ended, the products are already successfully in Production and I got so much great experience in these projects. 
+Accordingly, now my contract with Nashtech comes to an end also.
+>  (You may want to add the Nashtech are struggling a bit to get new projects)
+
+So, this is the time for my next step, and I would be very happy to bring my skills and experience here to PRDCV and contribute towards your vision and targets.
+
+
 
